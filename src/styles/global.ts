@@ -70,7 +70,7 @@ export const GlobalStyle = createGlobalStyle`
 
   .react-modal-content {
     max-width: 576px;
-    width: 100%; // Fica do tamanho da tela caso seja menor que 576px
+    width: 100%;
     background: var(--background);
     padding: 3rem;
     position: relative;
